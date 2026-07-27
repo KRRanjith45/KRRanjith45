@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KRRanjith45" alt="KRRanjith45" /></a> </p>
 
-- 🔭 I’m currently working on [bible](https://github.com/KRRanjith45/Bible)
-
-- 🌱 I’m currently learning **elysia js**
-
-- 👯 I’m looking to collaborate on [prathap constructions](https://github.com/yosuwa05/prathap-constructions)
-
 - 💬 Ask me about **flutter and dart**
 
 - 📫 How to reach me **ranjith.kr482000@gmail.com**
