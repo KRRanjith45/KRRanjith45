@@ -19,7 +19,7 @@ Passionate Flutter developer from India with hands-on experience in building sca
 ## 🚀 About Me
 
 * 🔭 Currently working as **Junior Flutter Developer at Wenoxo Technologies Pvt Ltd**
-* 🌱 Exploring **Clean Architecture, Firebase, Riverpod, and Flutter Web**
+* 🌱 Exploring **Clean Architecture, Firebase, Riverpod, and Flutter App & Web**
 * 💬 Ask me about **Flutter, Dart, Riverpod, REST APIs, Firebase, and Mobile App Development**
 * 📫 Reach me at **[ranjith.kr482000@gmail.com](mailto:ranjith.kr482000@gmail.com)**
 * 🌐 Portfolio: **https://my-portfolio-7a5fa.web.app**
